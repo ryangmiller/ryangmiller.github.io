@@ -116,14 +116,14 @@ events:
     description: "Fluid Hauling (add more infos)"
   - image: "/img/timeline/railyard.png"
     date: "January 2010 - Present"
-    description: "Web Development"
+    description: "Web Development & Web Start-Ups"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1992 - Present"
     description: "Started coding"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/deadpool.jpg"
+timeline-img: "/img/timeline/birth.jpg"
 
 ###########
 # Contact #
